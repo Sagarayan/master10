@@ -1,4 +1,0 @@
-java -version
-pwd
-git -version 
-pwd
